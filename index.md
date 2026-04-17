@@ -47,4 +47,4 @@ SPIRA is a machine learning–enabled system for the pre-diagnosis of respirator
 Any questions? Send an e-mail to daiki.teruya@usp.br
 
 
-<sub>Page forked from [Bachelor's Monograph](https://vitorguidi.github.io/MAC0499/) of Daniel Angelo Esteves Lawand</sub>
+<sub>Page forked from [Bachelor's Monograph](https://lucasqml.github.io/mac0499/) of Lucas Quaresma and Roberto Oliveira</sub>
