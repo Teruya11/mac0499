@@ -1,10 +1,9 @@
-#  Productionizing SPIRA’s model trainer system
+#  Integrating task orchestration into SPIRA’s model trainer
 
 Page for the discipline MAC0499 - Capstone Project - at IME-USP.
 
 ### **Members:** 
-  - Lucas Quaresma Medina Lam
-  - Roberto Oliveira Bolgheroni
+  - Daiki Teruya Inoue
 
 ### **Supervisors:**
   - Prof. Dr. Alfredo Goldman
@@ -12,9 +11,9 @@ Page for the discipline MAC0499 - Capstone Project - at IME-USP.
 
 ### **Summary:**
 
-SPIRA is a ML-enabled system to pre-diagnosis insufficiency respiratory based on speech analysis. The training pipeline created during its initial modelling led to an accidental architecture, which lacked good software quality attributes. The goal of this research is to productionize the SPIRA's model trainer system.
+SPIRA is a machine learning–enabled system for the pre-diagnosis of respiratory insufficiency based on speech analysis. The restructured training pipeline enables integration with task orchestration systems, improving its resilience. The goal of this research is to integrate SPIRA’s model training system with Apache Airflow.
 
-## Proposal 
+## Proposal (Todo)
 
 [Download](./docs/proposal.pdf) | [Online](https://github.com/lucasqml/MAC0499/blob/main/docs/proposal.pdf)
 
@@ -38,18 +37,14 @@ SPIRA is a ML-enabled system to pre-diagnosis insufficiency respiratory based on
 
 ## Monograph
 
-[Download](./docs/monograph.pdf) | [Online](https://github.com/lucasqml/mac0499/blob/main/docs/monograph.pdf)
-
 ## Repository
 
 <!--| Description |
 | --- |-->
-[Training Pipeline](https://github.com/spirabr/SPIRA-training)
-
 
 ## Contact Information
 
-Any questions? Send an e-mail to lucasqml08@usp.br or robertobolgheroni@usp.br
+Any questions? Send an e-mail to daiki.teruya@usp.br
 
 
-<sub>Page inspired by the [Bachelor's Monograph](https://danlawand.github.io/MAC0499/) of Daniel Angelo Esteves Lawand</sub>
+<sub>Page forked from [Bachelor's Monograph](https://vitorguidi.github.io/MAC0499/) of Daniel Angelo Esteves Lawand</sub>
