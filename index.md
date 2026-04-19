@@ -13,7 +13,7 @@ Page for the discipline MAC0499 - Capstone Project - at IME-USP.
 
 SPIRA is a machine learning–enabled system for the pre-diagnosis of respiratory insufficiency based on speech analysis. The restructured training pipeline enables integration with task orchestration systems, improving its resilience. The goal of this research is to integrate SPIRA’s model training system with Apache Airflow.
 
-## Proposal (Todo)
+## Proposal
 
 [Download](./docs/proposal.pdf) | [Online](https://github.com/Teruya11/MAC0499/blob/main/docs/proposal.pdf)
 
@@ -35,9 +35,9 @@ SPIRA is a machine learning–enabled system for the pre-diagnosis of respirator
 [Download](./subjective_part.pdf)
 -->
 
-## Monograph
+## Monograph (TODO)
 
-## Repository
+## Repository (TODO)
 
 <!--| Description |
 | --- |-->
