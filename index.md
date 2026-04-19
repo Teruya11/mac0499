@@ -15,7 +15,7 @@ SPIRA is a machine learning–enabled system for the pre-diagnosis of respirator
 
 ## Proposal (Todo)
 
-[Download](./docs/proposal.pdf) | [Online](https://github.com/lucasqml/MAC0499/blob/main/docs/proposal.pdf)
+[Download](./docs/proposal.pdf) | [Online](https://github.com/Teruya11/MAC0499/blob/main/docs/proposal.pdf)
 
 <!--
 ## WIP - Presentation
